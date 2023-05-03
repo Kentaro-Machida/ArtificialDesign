@@ -1,2 +1,5 @@
-# ArtificialDesign
-Repository for class of Artificial Design
+# 知能情報デザイン特論
+このレポジトリは知能情報デザイン特論において行うさまざまな実装を置いておくためのものである．
+
+## Neural Network
+NNをPytorch tensorflow等を用いずに実装するための作業フォルダ.
