@@ -160,3 +160,5 @@ cython_debug/
 #.idea/
 
 experiment/
+fig/
+GeneticAlgorithms/23656075_GA.pdf
